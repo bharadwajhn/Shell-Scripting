@@ -1,5 +1,3 @@
-#!/bin/bash
-
 NAME=DEVOPS
 
 COUNT=2
