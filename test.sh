@@ -3,7 +3,6 @@
 NAME=DEVOPS
 
 COUNT=2
-COUNT=10
 
 
 echo NAME=$NAME
