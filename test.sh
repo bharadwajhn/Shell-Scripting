@@ -1,9 +1,12 @@
 #!/bin/bash
 
-NAME=DEVOPS
-
-COUNT=2
+NAME=CHandan
+COUNTRY=India
+JOB="IT Specialist"
+JOBEXP=2
 
 echo NAME=$NAME
-echo "count of Apples = ${COUNT}no"
-echo "Number of Cars in a row = ${COUNT}no"
+echo "country is = ${COUNTRY}"
+echo "Job is = ${JOB}"
+echo "Job Experience = ${JOBEXP}Yrs"
+
