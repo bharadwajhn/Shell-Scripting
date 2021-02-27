@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NAME=Chandan Bharadwaj
+NAME=ChandanBharadwaj
 COUNTRY=India
 JOB="IT Specialist"
 JOBEXP=5
