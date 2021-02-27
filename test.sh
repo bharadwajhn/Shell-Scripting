@@ -1,11 +1,11 @@
 #!/bin/bash
 
-NAME=CHandan
+NAME=Chandan Bharadwaj
 COUNTRY=India
 JOB="IT Specialist"
-JOBEXP=2
+JOBEXP=5
 
-echo NAME=$NAME
+echo "Name is = ${NAME}"
 echo "country is = ${COUNTRY}"
 echo "Job is = ${JOB}"
 echo "Job Experience = ${JOBEXP}Yrs"
